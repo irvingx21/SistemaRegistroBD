@@ -34,6 +34,7 @@
                  <img  src="imagenes/vehiculo.jpg"  width="200" height="200" >
           </div> 
           <div>
+              mmmm
             Para consultar el valor a pagar de su vehículo digite el número de placa tal como consta en su especie de matrícula. Ejemplo: AAA0123.
             Si la placa que consta en su matrícula no existe en el sistema, por favor comuníquese al 1700 SRI SRI y solicite el número de RAMV o CPN de su vehículo, con el que puede realizar el pago de su matrícula. Estos casos se dan, cuando la institución de tránsito no ha registrado la placa de su vehículo en el sistema que administra el SRI.
 
